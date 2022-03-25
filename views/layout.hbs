@@ -27,7 +27,7 @@
           </li>
         </ul>
             {{# if session.user }}
-            <p class="text-light m-3">{{session.user.firstName}} {{session.user.surName}}</p>
+            <p class="text-light m-3">{{globalUser.firstName}} {{globalUser.surName}}</p>
             <form action='/sessions?_method=DELETE' method='POST'>
               <input class="btn btn-danger m-3" type="submit" value="Log Out">
             </form>
