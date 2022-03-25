@@ -1,13 +1,11 @@
-<h1> Upload images here</h1>
+<h1>New Photo Post</h1>
   <div class="image">
     <form action="/posts/upload" method="post" >
-      {{#each pictures}}
-        
+      {{#each pictures}}       
         <img src="{{this}}" height="200" width="200" /> 
         <input type="radio"  name="img_name" value="{{this}}">
       {{/each}} <br><br>
-      <label for="message">Message: </label>
-      <input id="message" type="text" name="message" value=""><br><br>
-      <input type="submit" value="Select Picture"/>
+      <textarea id="message" name="message" placeholder=" What's on your mind?" rows="4" cols="50" type="text"></textarea><br><br>
+      <input class="btn btn-primary" type="submit" value="Submit"/>
     </form>
   </div>
