@@ -6,7 +6,7 @@
   <br>
   <h2 class="text-muted">Welcome to {{title}}</h2>
   {{# if session.user }}
-  <p>Hello {{session.user.firstName}}</p>
+  <p>Hello {{globalUser.firstName}}</p>
   <form action='/sessions?_method=DELETE' method='POST'>
     <input class="btn btn-danger" type="submit" value="Log Out">
   </form>
