@@ -1,6 +1,8 @@
 # Acebook
 
-This is a Node.js template for the Acebook engineering project.
+## Team
+
+Two-week group project by Ben H, Ben P, Charlotte, Chloe, Marie and Tim.
 
 It uses:
 
@@ -12,6 +14,20 @@ It uses:
 - [Jest](https://jestjs.io/) for testing.
 - [Cypress](https://www.cypress.io/) for end-to-end testing.
 - [Bootstrap](https://getbootstrap.com/) for template rendering of HTML and CSS.
+
+![Homepage](.public/images/screenshots/Homepage.png)
+![Homepage](.public/images/screenshots/Timeline.png)
+![Homepage](.public/images/screenshots/Profile.png)
+
+## Presentation
+
+![](.public/images/screenshots/Presentation_01.png)
+![](.public/images/screenshots/Presentation_02.png)
+![](.public/images/screenshots/Presentation_03.png)
+![](.public/images/screenshots/Presentation_04.png)
+![](.public/images/screenshots/Presentation_05.png)
+![](.public/images/screenshots/Presentation_06.png)
+
 
 ## Card wall
 
@@ -82,6 +98,8 @@ I want to access the site from a Heroku link
 ## Credits
 
 Credit to Bromley and his team for some code we re-used (with permission) within the /cypress/plugins/index.js and /cypress/support/index.js to enable auto clearing of test databases (code taken from <a href="https://github.com/nyahehnagi/acebook-makerverse">here </a>)
+
+Credit to Charlotte for designing the Acebook logo. 
 
 ## Quickstart
 
