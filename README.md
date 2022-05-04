@@ -2,7 +2,7 @@
 
 ## Team
 
-Two-week group project by Ben H, Ben P, Charlotte, Chloe, Marie and Tim.
+Makers Academy two-week group project by [Ben H](https://github.com/Ledders26), [Ben P](https://github.com/benpartington), [Charlotte](https://github.com/CBuchan5), [Chloë](https://github.com/Chloeem), [Marie](https://github.com/mmguinness) and [Tim](https://github.com/breadmaking).
 
 It uses:
 
@@ -15,19 +15,18 @@ It uses:
 - [Cypress](https://www.cypress.io/) for end-to-end testing.
 - [Bootstrap](https://getbootstrap.com/) for template rendering of HTML and CSS.
 
-![Homepage](.public/images/screenshots/Homepage.png)
-![Homepage](.public/images/screenshots/Timeline.png)
-![Homepage](.public/images/screenshots/Profile.png)
+![Homepage](./public/images/screenshots/Homepage.png)
+![Homepage](./public/images/screenshots/Timeline.png)
+![Homepage](./public/images/screenshots/Profile.png)
 
 ## Presentation
 
-![](.public/images/screenshots/Presentation_01.png)
-![](.public/images/screenshots/Presentation_02.png)
-![](.public/images/screenshots/Presentation_03.png)
-![](.public/images/screenshots/Presentation_04.png)
-![](.public/images/screenshots/Presentation_05.png)
-![](.public/images/screenshots/Presentation_06.png)
-
+![](./public/images/screenshots/Presentation_01.png)
+![](./public/images/screenshots/Presentation_02.png)
+![](./public/images/screenshots/Presentation_03.png)
+![](./public/images/screenshots/Presentation_04.png)
+![](./public/images/screenshots/Presentation_05.png)
+![](./public/images/screenshots/Presentation_06.png)
 
 ## Card wall
 
